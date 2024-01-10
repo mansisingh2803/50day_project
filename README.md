@@ -1,2 +1,2 @@
 # 50day_project
-%0 days with 50 Project
+50 days with 50 Project
